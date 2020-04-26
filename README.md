@@ -20,9 +20,7 @@ Lambdas to send notifications:
 
 3D printed parts:
 
-Webpage:
-
-More LAmbdas:
+Webpage (note that the DS file tha is outside the folder belongs to the webpage):https://github.com/EddOliver/TreeForce/tree/master/WebPage%20ReactJS
 
 ## Important 
 
