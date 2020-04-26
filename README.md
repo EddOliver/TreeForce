@@ -17,7 +17,7 @@ Node Red flow (sends the info to a dynamodb): https://github.com/EddOliver/TreeF
 
 ## Front End
 
-3D printed parts:
+3D printed parts - up there
 
 Webpage (note that the DS file tha is outside the folder belongs to the webpage):https://github.com/EddOliver/TreeForce/tree/master/WebPage%20ReactJS
 
