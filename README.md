@@ -12,9 +12,8 @@ https://github.com/EddOliver/TreeForce
 
 Full IoT sensors and Particle Argon Code:
 
-Node Red flow (sends the info to a dynamodb):
+Node Red flow (sends the info to a dynamodb): https://github.com/EddOliver/TreeForce/tree/master/Node%20Red%20Flow
 
-Lambdas to send notifications:
 
 ## Front End
 
